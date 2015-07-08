@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ButtonHandler.cs">
+    <Files>
+      <File FileName="Assets\ButtonHandler.cs" Line="23" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="G:\project\ProjectV\dev\Server\Playground\Unity3d\UITest\Assets\SecuredType.cs" line="31" />
+      <Breakpoint file="G:\project\ProjectV\dev\Server\Playground\Unity3d\UITest\Assets\SecuredType.cs" line="34" />
+      <Breakpoint file="G:\project\ProjectV\dev\Server\Playground\Unity3d\UITest\Assets\SecuredType.cs" line="20" />
+      <Breakpoint file="G:\project\ProjectV\dev\Server\Playground\Unity3d\UITest\Assets\SecuredType.cs" line="15" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="Assets\ButtonHandler.cs" line="117" offsetX="501" offsetY="1972" expression="stream" liveUpdate="False" />
+    <Watch file="Assets\ButtonHandler.cs" line="27" offsetX="893" offsetY="442" expression="decrypted" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
