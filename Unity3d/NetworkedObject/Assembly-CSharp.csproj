@@ -60,13 +60,13 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="LitJson">
- <HintPath>G:/project/ProjectV/dev/Server/Playground/Unity3d/NetworkedObject/Assets/Plugins/LitJson.dll</HintPath>
+ <HintPath>G:/project/ProjectV/dev/Server/Playground/HelloVertX/Unity3d/NetworkedObject/Assets/Plugins/LitJson.dll</HintPath>
  </Reference>
  <Reference Include="NetworkLib">
- <HintPath>G:/project/ProjectV/dev/Server/Playground/Unity3d/NetworkedObject/Assets/Plugins/NetworkLib.dll</HintPath>
+ <HintPath>G:/project/ProjectV/dev/Server/Playground/HelloVertX/Unity3d/NetworkedObject/Assets/Plugins/NetworkLib.dll</HintPath>
  </Reference>
  <Reference Include="Newtonsoft.Json">
- <HintPath>G:/project/ProjectV/dev/Server/Playground/Unity3d/NetworkedObject/Assets/Plugins/Newtonsoft.Json.dll</HintPath>
+ <HintPath>G:/project/ProjectV/dev/Server/Playground/HelloVertX/Unity3d/NetworkedObject/Assets/Plugins/Newtonsoft.Json.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -13,7 +13,7 @@ public class MainGUI : MonoBehaviour {
 
 
 	ConcurrentQueue<string>	m_recvMsgs = new ConcurrentQueue<string> ();
-	const string ip = "172.20.42.42";
+	const string ip = "172.20.52.218";
 
 	Dictionary<Protocol.ID, System.Action<string>>	m_handlers = new Dictionary<Protocol.ID, System.Action<string>>();
 	Dictionary<string, Creature>	m_cretures = new Dictionary<string, Creature> ();

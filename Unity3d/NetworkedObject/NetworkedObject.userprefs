@@ -1,31 +1,12 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Protocol.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MainGUI.cs">
     <Files>
-      <File FileName="Assets\Scripts\MainGUI.cs" Line="159" Column="53" />
-      <File FileName="Assets\Scripts\Protocol.cs" Line="116" Column="22" />
-      <File FileName="Assets\Scripts\Creature.cs" Line="30" Column="4" />
-      <File FileName="Assets\Scripts\GameServerTime.cs" Line="30" Column="66" />
-      <File FileName="Assets\Scripts\Champ.cs" Line="6" Column="2" />
-      <File FileName="Assets\Scripts\Tower.cs" Line="8" Column="1" />
+      <File FileName="Assets\Scripts\MainGUI.cs" Line="24" Column="53" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State expanded="True">
-          <Node name="Assembly-CSharp" expanded="True">
-            <Node name="Scripts" expanded="True">
-              <Node name="Protocol.cs" selected="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
-    <Watch file="..\UITest\Assets\ButtonHandler.cs" line="117" offsetX="501" offsetY="1972" expression="stream" liveUpdate="False" />
-    <Watch file="..\UITest\Assets\ButtonHandler.cs" line="27" offsetX="893" offsetY="442" expression="decrypted" liveUpdate="False" />
-  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
